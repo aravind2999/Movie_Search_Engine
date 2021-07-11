@@ -7,4 +7,4 @@
 # so these will be ignored
 
 node_modules/
-
+.env/
